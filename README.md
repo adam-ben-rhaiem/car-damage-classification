@@ -1,11 +1,11 @@
 
 We have Applied a comparison among 4 different Models to classify the severity of car damage:
 
-1-Low
+1-Minor
 
-2-Medium
+2-Moderate
 
-3-High
+3-severe
 
 1<------------CNN Model from Scratch--------------->
 

@@ -1,5 +1,6 @@
 
 We have Applied a comparison among 4 different Models to classify the severity of car damage:
+
 1-Low
 
 2-Medium

@@ -1,4 +1,4 @@
-CNN Model from Scratch
+2<------------CNN Model from Scratch--------------->
 
 Validation and Training Loss 
 
@@ -17,6 +17,12 @@ Confusion Matrix
 Classification Report 
 
 ![Screenshot 2024-11-30 141257](https://github.com/user-attachments/assets/8926698c-e0da-4fe8-ab19-1d48e4e2e1f6)
+
+
+2<------------MobileNetV2 Model--------------->
+
+
+
 
 
 

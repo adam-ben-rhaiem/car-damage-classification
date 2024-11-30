@@ -1,4 +1,4 @@
-2<------------CNN Model from Scratch--------------->
+1<------------CNN Model from Scratch--------------->
 
 Validation and Training Loss 
 
@@ -20,6 +20,23 @@ Classification Report
 
 
 2<------------MobileNetV2 Model--------------->
+
+Architecture
+
+![Screenshot 2024-11-30 141743](https://github.com/user-attachments/assets/6b1a697e-d692-4e9e-bef9-c94bb1e6b43f)
+
+LOSS Evaluation
+
+![Screenshot 2024-11-30 141743](https://github.com/user-attachments/assets/6f1adb67-5769-4f7b-8e84-62eee91017e1)
+
+Accuracy Evaluation
+
+![Screenshot 2024-11-30 141827](https://github.com/user-attachments/assets/ac81bd24-2fec-49d0-a512-0c701ddfbb5b)
+
+
+
+
+
 
 
 

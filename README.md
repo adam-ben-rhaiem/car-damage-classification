@@ -14,5 +14,10 @@ Confusion Matrix
 
 ![Screenshot 2024-11-30 140938](https://github.com/user-attachments/assets/9057e83e-6ce8-4ad6-b2ca-d7e379e8fcb2)
 
+Classification Report 
+
+![Screenshot 2024-11-30 141257](https://github.com/user-attachments/assets/8926698c-e0da-4fe8-ab19-1d48e4e2e1f6)
+
+
 
 

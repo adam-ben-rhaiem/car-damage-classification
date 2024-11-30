@@ -27,11 +27,13 @@ Architecture
 
 LOSS Evaluation
 
-![Screenshot 2024-11-30 141743](https://github.com/user-attachments/assets/6f1adb67-5769-4f7b-8e84-62eee91017e1)
+![Screenshot 2024-11-30 141827](https://github.com/user-attachments/assets/275b018f-1633-493c-b673-d4868bd7eaae)
+
 
 Accuracy Evaluation
 
-![Screenshot 2024-11-30 141827](https://github.com/user-attachments/assets/ac81bd24-2fec-49d0-a512-0c701ddfbb5b)
+![Screenshot 2024-11-30 141911](https://github.com/user-attachments/assets/e901b3f7-8b9b-4236-9c1d-43a9b0f64755)
+
 
 
 

@@ -7,9 +7,10 @@ We have Applied a comparison among 4 different Models to classify the severity o
 
 3-severe
 
-Our dataset comes from:
+Dataset Source:
 
 https://www.kaggle.com/datasets/prajwalbhamere/car-damage-severity-dataset
+
 
 1<------------CNN Model from Scratch--------------->
 

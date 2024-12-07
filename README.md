@@ -12,6 +12,12 @@ Dataset Source:
 https://www.kaggle.com/datasets/prajwalbhamere/car-damage-severity-dataset
 
 
+Distribution of the dataset in each model 
+
+![image](https://github.com/user-attachments/assets/6afc2256-917f-4768-874f-9f2dbeff7f84)
+
+
+
 1<------------CNN Model from Scratch--------------->
 
 Validation and Training Loss 

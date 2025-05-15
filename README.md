@@ -121,22 +121,13 @@ Each model has strengths, and the choice depends on the deployment constraints a
 
 - Python 🐍  
 - TensorFlow / Keras  
-- OpenCV & Pillow  
+- OpenCV   
 - Scikit-learn  
 - Matplotlib / Seaborn  
 - NumPy / Pandas  
 
 ---
 
-## 📄 License
-
-This project is under the **MIT License** – feel free to fork, modify, and use it.
-
----
-
-## 🌟 Show Your Support
-
-Give this repo a ⭐ if you found it helpful!
 
 
 

@@ -126,6 +126,26 @@ Each model has strengths, and the choice depends on the deployment constraints a
 - Matplotlib / Seaborn  
 - NumPy / Pandas  
 
+
+## 🛠️ Getting Started
+
+### 📦 Prerequisites
+Make sure you have the following installed:
+
+- Python 
+- Git
+- Jupyter Notebook or JupyterLab
+- A modern GPU (recommended for training)
+- pip or conda for package management
+
+### 🧰 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/car-damage-classification.git
+cd car-damage-classification
+
 ---
 
 

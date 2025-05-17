@@ -145,5 +145,3 @@ Clone the repository:
 ```bash
 git clone https://github.com/your-username/car-damage-classification.git
 cd car-damage-classification
-
----

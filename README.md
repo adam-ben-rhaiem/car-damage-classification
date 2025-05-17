@@ -1,4 +1,4 @@
-# 🚗 Car Damage Severity Classification
+# 🚗 Car Damage Classification
 
 Classifying the **severity of car damage** is crucial for insurance claims, safety evaluations, and automated vehicle assessments.  
 In this project, we **compare four different deep learning models** to classify car damage into three categories:
